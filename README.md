@@ -10,7 +10,7 @@ Hi, I'm Shubham Ghule!
 </p>
 <hr/>
 <samp>
-I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
+I love building tech products! Reach out, if you find my skills suitable.
 </samp>
 
 ## 🔥 Streak Stats
