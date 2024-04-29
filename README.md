@@ -14,6 +14,15 @@ Hi, I'm Shubham Ghule!
 I love building tech products! Reach out, if you find my skills suitable.
 </samp>
 
+## 🙋🏻‍♂️ Let's Connect
+
+<p >
+	<a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/shubhamghule1" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/dev_shubham1/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="mailto:ghuleshubham2013@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
+
 ## 🔥 Streak Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -105,11 +114,4 @@ I love building tech products! Reach out, if you find my skills suitable.
 
 <!-- https://github.com/sisodiya2421 -->
 
-## 🙋‍♀️ Let's Connect
 
-<p >
-	<a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
-	<a href="https://github.com/shubhamghule1" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/dev_shubham1/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="mailto:ghuleshubham2013@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-</p>
