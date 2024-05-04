@@ -48,8 +48,9 @@ I love building tech products! Feel free to contact me, if you find my skills su
 <p>
 <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
 <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/express.js-white?logo=express&logoColor=violet"></a>
+<a href=""><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-white?logo=express&logoColor=violet"></a>
 <a href=""><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+<a href=""><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-grey?logo=fastapi&logoColor=green"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
