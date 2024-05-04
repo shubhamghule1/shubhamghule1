@@ -16,10 +16,10 @@ I love building tech products! Feel free to contact me, if you find my skills su
 ## 🙋🏻‍♂️ Let's Connect
 
 <p >
-	<a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
-	<a href="https://github.com/shubhamghule1" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/dev_shubham1/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="mailto:ghuleshubham2013@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/shubhamghule1" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Github-grey?logo=github"></a>
+	<a href="https://www.linkedin.com/in/dev_shubham1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+	<a href="mailto:ghuleshubham2013@gmail.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-white?logo=gmail">
+</a>
 </p>
 
 
