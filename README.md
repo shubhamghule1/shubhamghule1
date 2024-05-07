@@ -101,16 +101,15 @@ I love building tech products! Feel free to contact me, if you find my skills su
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-
-<!-- 	[![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamghule1&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-   <a href="#"><img alt="Shubham's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamghule1&bg_color=1e1e2e&color=94e2d5&line=89b4fa&point=cba6f7" /></a>
+	<p align="center">
+  		<a href="#"><img alt="Shubham's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamghule1&bg_color=1e1e2e&color=94e2d5&line=89b4fa&point=cba6f7" /></a>
+   	</p>
   <br/>
 </details>
 
-<!-- https://github.com/sisodiya2421 -->
 
 
