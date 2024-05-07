@@ -94,8 +94,8 @@ I love building tech products! Feel free to contact me, if you find my skills su
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shubham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhamghule1&show_icons=true&count_private=true&theme=catppuccin_mocha" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shubham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamghule1&langs_count=8&layout=compact&theme=catppuccin_mocha" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shubham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhamghule1&show_icons=true&count_private=true&theme=catppuccin_mocha" width="300px" height="200px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shubham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamghule1&langs_count=8&layout=compact&theme=catppuccin_mocha" width="300px" height="200px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
