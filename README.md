@@ -37,15 +37,16 @@ I love building tech products! Feel free to contact me, if you find my skills su
 	<a href=""><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=openjdk&logoColor=white"></a>
 </p>  
 
-### 🧰 Web Technologies
+### 🧰 Web Technologies and Libraries
 
 <p>
-	<a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-	<a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+	<a href=""><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-grey?logo=fastapi&logoColor=green"></a>
 	<a href=""><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-white?logo=express&logoColor=violet"></a>
 	<a href=""><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-	<a href=""><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-grey?logo=fastapi&logoColor=green"></a>
 	<a href=""><img alt="React.js" src="https://img.shields.io/badge/React.js-blue?logo=react"></a>
+	<a href=""><img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-F33A6A?logo=pydantic"></a>
+	<a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+	<a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases
