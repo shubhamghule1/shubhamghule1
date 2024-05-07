@@ -91,7 +91,7 @@ I love building tech products! Feel free to contact me, if you find my skills su
 ## 📊 Github Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
+<details align="center"> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="#"><img alt="Shubham's Github Stats" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamghule1&show_icons=true&count_private=true&theme=catppuccin_mocha" /></a>
