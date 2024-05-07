@@ -105,7 +105,7 @@ I love building tech products! Feel free to contact me, if you find my skills su
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 <!-- 	[![Yashita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashitanamdeo)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shubham's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamghule1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shubham's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamghule1&theme="material-palenight"&hide_border=true" /></a>
   <br/>
 </details>
 
