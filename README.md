@@ -81,7 +81,7 @@ I love building tech products! Feel free to contact me, if you find my skills su
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shubhamghule1&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=650&card_height=200" alt="Shubham's GitHub Streak" /></a>
+  <a href="#"><img src="https://streak-stats.demolab.com?user=shubhamghule1&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=650&card_height=200" alt="Shubham's GitHub Streak" /></a>
   </a>
 <!--   <p align="center"> If you can dream it, you can do it🔥 </p> -->
 </p>
