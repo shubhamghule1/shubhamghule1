@@ -59,9 +59,8 @@ I love building tech products! Feel free to contact me, if you find my skills su
 	<a href="#"><img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-white?logo=sqlalchemy&logoColor=red"></a>
 </p>
 
-### 💻 Software and Tools
 
-<p>
+
 <!--     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-3DDC84?logo=atom&logoColor=white"></a>
@@ -77,14 +76,12 @@ I love building tech products! Feel free to contact me, if you find my skills su
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> -->
-</p>
 
 ## 🔥 Streak Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shbham Ghule's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamghule1&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shubhamghule1&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=650&card_height=200" alt="Shubham's GitHub Streak" /></a>
   </a>
 <!--   <p align="center"> If you can dream it, you can do it🔥 </p> -->
 </p>
