@@ -106,7 +106,7 @@ I love building tech products! Feel free to contact me, if you find my skills su
   <br/>
 <!-- 	[![Yashita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashitanamdeo)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <!-- 	[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamghule1&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shubham's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamghule1&bg_color=1e1e2e&color=94e2d5&line=89b4fa&point=f5c2e7&area=true&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shubham's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamghule1&bg_color=1e1e2e&color=94e2d5&line=89b4fa&point=cba6f7&area=true&hide_border=true" /></a>
   <br/>
 </details>
 
