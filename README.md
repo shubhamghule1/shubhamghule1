@@ -45,7 +45,7 @@ I love building tech products! Feel free to contact me, if you find my skills su
 	<a href=""><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-white?logo=express&logoColor=violet"></a>
 	<a href=""><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
 	<a href=""><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-grey?logo=fastapi&logoColor=green"></a>
-	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/React.js-blue?logo=react"></a>
+	<a href=""><img alt="React.js" src="https://img.shields.io/badge/React.js-blue?logo=react"></a>
 </p>
 
 ### 🗄️ Databases
