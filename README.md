@@ -50,11 +50,13 @@ I love building tech products! Feel free to contact me, if you find my skills su
 ### 🗄️ Databases
 
 <p>
-    <a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+    	<a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    	<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
+     	<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-white?logo=postgresql"></a>
+        <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+	<a href="#"><img alt="AWS DynamoDB" src="https://img.shields.io/badge/DynamoDB-blue?logo=amazondynamodb"></a>
+	<a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-white?logo=redis"></a>
+	<a href="#"><img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-white?logo=sqlalchemy&logoColor=red"></a>
 </p>
 
 ### 💻 Software and Tools
