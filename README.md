@@ -41,6 +41,7 @@ I love building tech products! Feel free to contact me, if you find my skills su
 
 <p>
 	<a href=""><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%2336454F?logo=fastapi&logoColor=green"></a>
+	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Flask-white?logo=flask&logoColor=black"></a>
 	<a href=""><img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-F33A6A?logo=pydantic"></a>
 	<a href=""><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-white?logo=express&logoColor=violet"></a>
 	<a href=""><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
