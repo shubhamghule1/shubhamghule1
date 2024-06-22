@@ -19,7 +19,7 @@ I love building tech products! Feel free to contact me, if you find my skills su
 	<a href="https://www.linkedin.com/in/dev-shubham1" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
 	<a href="mailto:ghuleshubham2013@gmail.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-white?logo=gmail"></a>
 	<a href="https://github.com/shubhamghule1" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Github-grey?logo=github"></a>
-	<a href="https://leetcode.com/u/dev_shubham1/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-grey?logo=leetcode"></a>
+	<a href="https://leetcode.com/u/dev_shubham1/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-%2336454F?logo=leetcode"></a>
 
 </p>
 
