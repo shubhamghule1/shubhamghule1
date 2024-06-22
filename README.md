@@ -66,6 +66,7 @@ I love building tech products! Feel free to contact me, if you find my skills su
 
 <p>
     	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white"></a>
+	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Docker-%231D63ED?logo=docker&logoColor=white"></a>
 </p>
 	
 
