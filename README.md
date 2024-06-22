@@ -33,7 +33,7 @@ I love building tech products! Feel free to contact me, if you find my skills su
 	<a href=""><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 	<a href=""><img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-%2336454F?logo=gnubash&logoColor=green"></a>
 	<a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-	<a href=""> <img alt="Go" src="https://img.shields.io/badge/Go-cyan?logo=Go"></a>
+	<a href=""> <img alt="Go" src="https://img.shields.io/badge/Go-black?logo=Go"></a>
 	<a href=""><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=openjdk&logoColor=white"></a>
 </p>  
 
