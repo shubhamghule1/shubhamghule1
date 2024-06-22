@@ -62,7 +62,7 @@ I love building tech products! Feel free to contact me, if you find my skills su
 	<a href="#"><img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-white?logo=sqlalchemy&logoColor=red"></a>
 </p>
 
-### Orchestration Tools
+### ⚙️ Orchestration Tools
 
 <p>
     	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white"></a>
