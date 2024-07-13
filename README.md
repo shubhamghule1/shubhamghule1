@@ -66,11 +66,12 @@ I love building tech products! Feel free to contact me, if you find my skills su
 	<a href="#"><img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-white?logo=sqlalchemy&logoColor=red"></a>
 </p>
 
-### ⚙️ Orchestration Tools
+### ⚙️ Orchestration Tools and Cloud Technologies
 
 <p>
     	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white"></a>
 	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Docker-%231D63ED?logo=docker&logoColor=white"></a>
+	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/AWS-grey?logo=aws"></a>
 	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Git-white?logo=git"></a>
 	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?logo=github"></a>
 </p>
