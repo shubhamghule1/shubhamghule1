@@ -6,7 +6,7 @@ Hi, I'm Shubham Ghule!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=2CF7DD&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer%2C+Loves+building+tech+products;Python+%7C+Go+%7C+Kubernetes+%7C+Docker+%7C+SQL+%7C+NoSQL;AI+%7C+ML+%7C+LLM+fine+tuning+%7C+RAG+%7C+Vector+DB" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=2CF7DD&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer%2C+Loves+building+tech+products;Python+%7C+Go+%7C+Kubernetes+%7C+Docker+%7C+PostgreSQL+%7C+NoSQL;AI+%7C+ML+%7C+LLM+fine+tuning+%7C+RAG+%7C+Vector+DB" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <samp>
