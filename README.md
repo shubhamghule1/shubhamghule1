@@ -71,7 +71,7 @@ I love building tech products! Feel free to contact me, if you find my skills su
 <p>
     	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white"></a>
 	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Docker-%231D63ED?logo=docker&logoColor=white"></a>
-	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/AWS-grey?logo=aws"></a>
+	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/AWS-%23232f3e?logo=amazonwebservices&logoColor=%23FF9800"></a>
 	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Git-white?logo=git"></a>
 	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?logo=github"></a>
 </p>
