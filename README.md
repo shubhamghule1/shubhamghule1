@@ -33,8 +33,8 @@ I love building tech products! Feel free to contact me, if you find my skills su
 
 <p>
 	<a href=""><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+	<a href=""><img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8?logo=go&logoColor=white"></a>
 	<a href=""><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Go-%2300ADD8?logo=go&logoColor=white"></a>
 	<a href=""><img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-%2336454F?logo=gnubash&logoColor=green"></a>
 	<a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 	<a href=""><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
@@ -69,11 +69,11 @@ I love building tech products! Feel free to contact me, if you find my skills su
 ### ⚙️ Orchestration Tools and Cloud Technologies
 
 <p>
-    	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white"></a>
-	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Docker-%231D63ED?logo=docker&logoColor=white"></a>
-	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/AWS-%23232f3e?logo=amazonwebservices&logoColor=%23FF9800"></a>
-	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Git-white?logo=git"></a>
-	<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?logo=github"></a>
+    	<a href=""><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white"></a>
+	<a href=""><img alt="Docker" src="https://img.shields.io/badge/Docker-%231D63ED?logo=docker&logoColor=white"></a>
+	<a href=""><img alt="AWS" src="https://img.shields.io/badge/AWS-%23232f3e?logo=amazonwebservices&logoColor=%23FF9800"></a>
+	<a href=""><img alt="Git" src="https://img.shields.io/badge/Git-white?logo=git"></a>
+	<a href=""><img alt="GitHub" src="https://img.shields.io/badge/GitHub-grey?logo=github"></a>
 </p>
 	
 
