@@ -111,7 +111,7 @@ I love building tech products! Feel free to contact me, if you find my skills su
   <br/>
 	<p align="center">
 		<a href="#"><img alt="Shubham's Github Stats" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamghule1&show_icons=true&count_private=true&theme=catppuccin_mocha" /></a>
-  		<a href="#"><img alt="Shubham's Top Languages" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamghule1&langs_count=8&layout=compact&theme=catppuccin_mocha" /></a>
+  		<a href="#"><img alt="Shubham's Top Languages" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamghule1&hide=less&langs_count=8&layout=compact&theme=catppuccin_mocha" /></a>
 	</p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
