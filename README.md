@@ -6,7 +6,7 @@ Hi, I'm Shubham Ghule!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=500&color=2CF7DD&center=true&vCenter=true&random=false&width=800&lines=Software+Engineer%2C+Loves+building+tech+products;Python+%7C+Go+%7C+Kubernetes+%7C+Docker+%7C+PostgreSQL+%7C+NoSQL;AI+%7C+ML+%7C+LLM+fine+tuning+%7C+RAG+%7C+Vector+DB" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=500&color=2CF7DD&center=true&vCenter=true&random=false&width=800&lines=Software+Engineer%2C+Loves+building+tech+products;Python+%7C+Java+%7C+Go+%7C+Kubernetes+%7C+Docker+%7C+PostgreSQL+%7C+NoSQL;AI+%7C+ML+%7C+LLM+fine+tuning+%7C+RAG+%7C+Vector+DB" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <samp>
@@ -33,12 +33,12 @@ I love building tech products! Feel free to contact me, if you find my skills su
 
 <p>
 	<a href=""><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+	<a href=""><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=openjdk&logoColor=white"></a>
 	<a href=""><img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8?logo=go&logoColor=white"></a>
 	<a href=""><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
 	<a href=""><img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-%2336454F?logo=gnubash&logoColor=green"></a>
 	<a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 	<a href=""><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
-	<a href=""><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=openjdk&logoColor=white"></a>
 </p>  
 
 ### 🧰 Web Technologies and Libraries
