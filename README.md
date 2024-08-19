@@ -37,16 +37,16 @@ I love building tech products! Feel free to contact me, if you find my skills su
 	<a href=""><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=openjdk&logoColor=white"></a>
 	<a href=""><img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8?logo=go&logoColor=white"></a>
 	<a href=""><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+	<a href=""><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
 	<a href=""><img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-%2336454F?logo=gnubash&logoColor=green"></a>
 	<a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-	<a href=""><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
 </p>  
 
 ### 🧰 Web Technologies and Libraries
 
 <p>
 	<a href=""><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%2336454F?logo=fastapi&logoColor=green"></a>
-	<a href=""><img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-white?logo=springboot&logoColor=green"></a>
+	<a href=""><img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-white?logo=springboot"></a>
 	<a href=""><img alt="Flask" src="https://img.shields.io/badge/Flask-white?logo=flask&logoColor=black"></a>
 	<a href=""><img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-F33A6A?logo=pydantic"></a>
 	<a href=""><img alt="React.js" src="https://img.shields.io/badge/React.js-blue?logo=react"></a>
