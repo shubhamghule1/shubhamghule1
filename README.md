@@ -69,9 +69,10 @@ I love building tech products! Feel free to contact me, if you find my skills su
 ### ⚙️ Orchestration Tools and Cloud Technologies
 
 <p>
+	<a href=""><img alt="Kafka" src="https://img.shields.io/badge/Kafka-grey?logo=apachekafka"></a>
+	<a href=""><img alt="AWS" src="https://img.shields.io/badge/AWS-%23232f3e?logo=amazonwebservices&logoColor=%23FF9800"></a>
     	<a href=""><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white"></a>
 	<a href=""><img alt="Docker" src="https://img.shields.io/badge/Docker-%231D63ED?logo=docker&logoColor=white"></a>
-	<a href=""><img alt="AWS" src="https://img.shields.io/badge/AWS-%23232f3e?logo=amazonwebservices&logoColor=%23FF9800"></a>
 	<a href=""><img alt="Git" src="https://img.shields.io/badge/Git-white?logo=git"></a>
 	<a href=""><img alt="GitHub" src="https://img.shields.io/badge/GitHub-grey?logo=github"></a>
 </p>
