@@ -18,7 +18,7 @@ I love building tech products! Feel free to contact me, if you find my skills su
 <p >
 	<a href="https://www.linkedin.com/in/dev-shubham1" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
 	<a href="mailto:shubhamghule03@gmail.com" target="_blank"><img alt="Shubham Ghule Gmail" src="https://img.shields.io/badge/Gmail-white?logo=gmail"></a>
-	<a href="https://drive.google.com/file/d/1ay3Gf47xNQO9ExeTkZPNid-pFzp-pBpw/view?usp=sharing" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Resume-blue?logo=readdotcv"></a>
+	<a href="https://drive.google.com/file/d/1RGirz0QaLJYeEUkYiS6YYx6yCK_MfmeH/view?usp=drive_link" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Resume-blue?logo=readdotcv"></a>
 	<a href="https://github.com/shubhamghule1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Github-grey?logo=github"></a>
 	<a href="https://leetcode.com/u/dev_shubham1/" target="_blank"><img alt="Shubham Ghule's Leetcode" src="https://img.shields.io/badge/Leetcode-%2336454F?logo=leetcode"></a>
  	<a href="https://www.stopstalk.com/user/profile/Dev_Shubham1" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/StopStalk-%23536dfe?logo=stopstalk&logoColor=red"></a>
