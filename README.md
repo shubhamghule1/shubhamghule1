@@ -47,7 +47,6 @@ I love building tech products! Feel free to contact me, if you find my skills su
 <p>
 	<a href=""><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%2336454F?logo=fastapi&logoColor=green"></a>
 	<a href=""><img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-white?logo=springboot"></a>
-	<a href=""><img alt="Flask" src="https://img.shields.io/badge/Flask-white?logo=flask&logoColor=black"></a>
 	<a href=""><img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-F33A6A?logo=pydantic"></a>
 	<a href=""><img alt="React.js" src="https://img.shields.io/badge/React.js-blue?logo=react"></a>
 	<a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
@@ -57,7 +56,6 @@ I love building tech products! Feel free to contact me, if you find my skills su
 ### 🗄️ Databases
 
 <p>
-    	<a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     	<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
      	<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-white?logo=postgresql"></a>
         <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
